@@ -1,0 +1,25 @@
+﻿  ConsoleUI.cpp
+  admin.cpp
+  auth.cpp
+  call_history.cpp
+  chat.cpp
+  chatDB.cpp
+  chat_manager.cpp
+  customer.cpp
+  customerDB.cpp
+  customer_manager.cpp
+  manager.cpp
+  managerDB.cpp
+  massage.cpp
+  mobile.cpp
+  mobile_manager.cpp
+  phonebook.cpp
+  request.cpp
+  request_containers.cpp
+  request_details.cpp
+  request_manager.cpp
+  Generating Code...
+  Compiling...
+  user.cpp
+  Generating Code...
+  kursovaManager.vcxproj -> C:\Users\taras\Desktop\навчальна\OOP\KursovaFvsCopy\kursovaManager\x64\Debug\kursovaManager.exe

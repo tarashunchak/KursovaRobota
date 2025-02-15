@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\ConsoleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\ConsoleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_containers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\request_containers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tariff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\tariff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\massage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\massage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\auth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\auth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\managerDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\managerDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customerDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\customerDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tarifDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\tarifDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tariff_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\tariff_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\phonebook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\phonebook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_details.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\request_details.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\request_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\SIM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\SIM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\call_history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\call_history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chat_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\chat_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chatDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\chatDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customer_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\customer_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\manager_controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\manager_controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\mobile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\mobile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\mobile_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EBC79B9-7C81-4CC8-BA9E-4B4745BD42AD}|kursovaManager\\kursovaManager.vcxproj|solutionrelative:kursovaManager\\mobile_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleUI.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\ConsoleUI.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\ConsoleUI.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\ConsoleUI.cpp",
+              "RelativeToolTip": "kursovaManager\\ConsoleUI.cpp",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAK8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:39:56.497Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\main.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\main.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\main.cpp",
+              "RelativeToolTip": "kursovaManager\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:31.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "person.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\person.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\person.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\person.cpp",
+              "RelativeToolTip": "kursovaManager\\person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:38.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "mobile_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\mobile_manager.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\mobile_manager.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\mobile_manager.cpp",
+              "RelativeToolTip": "kursovaManager\\mobile_manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:35.727Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "mobile.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\mobile.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\mobile.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\mobile.cpp",
+              "RelativeToolTip": "kursovaManager\\mobile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:34.996Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "massage.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\massage.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\massage.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\massage.cpp",
+              "RelativeToolTip": "kursovaManager\\massage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:34.29Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "managerDB.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\managerDB.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\managerDB.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\managerDB.cpp",
+              "RelativeToolTip": "kursovaManager\\managerDB.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:33.656Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "manager_controller.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\manager_controller.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\manager_controller.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\manager_controller.cpp",
+              "RelativeToolTip": "kursovaManager\\manager_controller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:33.38Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "manager.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\manager.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\manager.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\manager.cpp",
+              "RelativeToolTip": "kursovaManager\\manager.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:32.532Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "customerDB.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customerDB.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\customerDB.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customerDB.cpp",
+              "RelativeToolTip": "kursovaManager\\customerDB.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:31.493Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "customer_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customer_manager.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\customer_manager.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customer_manager.cpp",
+              "RelativeToolTip": "kursovaManager\\customer_manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:30.506Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "customer.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customer.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\customer.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\customer.cpp",
+              "RelativeToolTip": "kursovaManager\\customer.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:29.975Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "chatDB.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chatDB.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\chatDB.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chatDB.cpp",
+              "RelativeToolTip": "kursovaManager\\chatDB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:29.483Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "chat_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chat_manager.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\chat_manager.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chat_manager.cpp",
+              "RelativeToolTip": "kursovaManager\\chat_manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:28.858Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "chat.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chat.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\chat.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\chat.cpp",
+              "RelativeToolTip": "kursovaManager\\chat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:27.665Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "call_history.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\call_history.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\call_history.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\call_history.cpp",
+              "RelativeToolTip": "kursovaManager\\call_history.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:27.17Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "auth.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\auth.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\auth.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\auth.cpp",
+              "RelativeToolTip": "kursovaManager\\auth.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:26.53Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\admin.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\admin.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\admin.cpp",
+              "RelativeToolTip": "kursovaManager\\admin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:36:25.796Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SIM.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\SIM.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\SIM.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\SIM.cpp",
+              "RelativeToolTip": "kursovaManager\\SIM.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:07.675Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "request_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_manager.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\request_manager.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_manager.cpp",
+              "RelativeToolTip": "kursovaManager\\request_manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:06.971Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "request_details.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_details.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\request_details.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_details.cpp",
+              "RelativeToolTip": "kursovaManager\\request_details.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:06.339Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "request_containers.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_containers.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\request_containers.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request_containers.cpp",
+              "RelativeToolTip": "kursovaManager\\request_containers.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:05.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "request.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\request.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\request.cpp",
+              "RelativeToolTip": "kursovaManager\\request.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:03.819Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "phonebook.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\phonebook.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\phonebook.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\phonebook.cpp",
+              "RelativeToolTip": "kursovaManager\\phonebook.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:03.255Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tariff_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tariff_manager.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\tariff_manager.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tariff_manager.cpp",
+              "RelativeToolTip": "kursovaManager\\tariff_manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:16.962Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tariff.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tariff.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\tariff.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tariff.cpp",
+              "RelativeToolTip": "kursovaManager\\tariff.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:16.479Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "tarifDB.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tarifDB.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\tarifDB.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\tarifDB.cpp",
+              "RelativeToolTip": "kursovaManager\\tarifDB.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:15.962Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "user.cpp",
+              "DocumentMoniker": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\user.cpp",
+              "RelativeDocumentMoniker": "kursovaManager\\user.cpp",
+              "ToolTip": "C:\\Users\\taras\\Desktop\\\u043D\u0430\u0432\u0447\u0430\u043B\u044C\u043D\u0430\\OOP\\KursovaFvsCopy\\kursovaManager\\kursovaManager\\user.cpp",
+              "RelativeToolTip": "kursovaManager\\user.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T07:37:26.523Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
