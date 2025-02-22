@@ -26,7 +26,7 @@ Manager* ManagerDB::getManager(int index) {
 	return ManagerDB::mgList[index];
 }
 
-const int ManagerDB::getSize() {
+int ManagerDB::getSize() {
 	return ManagerDB::arrsize;
 }
 

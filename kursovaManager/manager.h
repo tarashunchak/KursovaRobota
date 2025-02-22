@@ -36,7 +36,7 @@ private:
 	static bool status;
 public:
 	static Manager* getManager(int index);
-	static const int getSize();
+	static int getSize();
 	static bool getStatus();
 	static void addManager(const Manager& newMgr);
 	static void removeEmployee(int ID);

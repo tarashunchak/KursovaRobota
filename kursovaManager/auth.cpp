@@ -1,6 +1,5 @@
 /*---------------*/
 #include "auth.h"
-#include "user.h"
 /*---------------*/
 
 using namespace std;

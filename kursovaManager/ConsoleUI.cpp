@@ -129,17 +129,17 @@ void ConsoleUI::run()const {
         }/*LogIn*/
 
         do {
-            system("cls");
+            system("clear");
             PrintMenu(role);
             if (role == meCust.role/*Customer*/) {
                 cin >> menu;
-                system("cls");
+                system("clear");
                 switch (menu) {
                 case 1: {
 
                     /*0*/reload_myprofile:
 
-                    system("cls");
+                    system("clear");
                     int choice;
                     cout << " __________________________________________________\n"
                         << "|" << setw(20) << "" << "My Profile" << setw(22) << "|\n"
@@ -155,7 +155,7 @@ void ConsoleUI::run()const {
                         break;
 
                     else if (inputint == 1) {
-                        system("cls");
+                        system("clear");
                         cout << " __________________________________________________\n"
                             << "|" << setw(20) << "" << "Tariffs" << setw(25) << "|\n"
                             << "|--------------------------------------------------|" << endl;
@@ -173,7 +173,7 @@ void ConsoleUI::run()const {
 
                 }
                 case 2: {
-                    system("cls");
+                    system("clear");
                     cout << " __________________________________________________\n"
                         << "|" << setw(20) << "" << "My Balance" << setw(23) << " | \n"
                         << "|--------------------------------------------------|" << endl;
@@ -186,7 +186,7 @@ void ConsoleUI::run()const {
 
                     /*1*/reload_phonebook:
 
-                    system("cls");
+                    system("clear");
                     int contact_id;
                     cout << " __________________________________________________\n"
                         << "|" << setw(20) << "" << "Phonebook" << setw(23) << "|\n"
@@ -248,7 +248,7 @@ void ConsoleUI::run()const {
                         customerManager.getMobile(UserID).getMyPhone()->printCalls();
                     }
                     cout << "|__________________________________________________|" << endl;
-                    system("pause");
+                    cin >> inputint;
                     break;
                 }
                 case 5: {
@@ -272,7 +272,7 @@ void ConsoleUI::run()const {
 
                         /*2*/reload_massage:
 
-                    system("cls");
+                    system("clear");
                     cout << " __________________________________________________\n"
                         << "|\t         Massages" << setw(18) << "|\n"
                         << "|--------------------------------------------------|" << endl;
@@ -312,7 +312,7 @@ void ConsoleUI::run()const {
             }
             else if (role == "Manager"/*Manager*/) {
                 cin >> menu;
-                system("cls");
+                system("clear");
                 int request_id = 0;
                 switch (menu) {
                 case 1: {
@@ -329,7 +329,7 @@ void ConsoleUI::run()const {
                 }
                 case 2: {
                     /*2*/reload_customer:
-                    system("cls");
+                    system("clear");
                     cout << " __________________________________________________\n"
                         << "|" << setw(20) << "" << "Subscribers" << setw(22) << " | \n"
                         << "|--------------------------------------------------|" << endl;
@@ -351,7 +351,7 @@ void ConsoleUI::run()const {
                         /*2*/goto reload_customer;
                     }
                     else if (inputint == 1) {
-                        system("cls");
+                        system("clear");
                         string fname, lname, dateofB, phonenum;
                         bool gender;
                         cout << " __________________________________________________\n"
@@ -385,7 +385,7 @@ void ConsoleUI::run()const {
                 }
                 case 4: {
                     /*3*/reload_requests:
-                    system("cls");
+                    system("clear");
                     cout << " __________________________________________________\n"
                         << "|" << setw(16) << "" << "Incoming requests" << setw(19) << "|\n"
                         << "|--------------------------------------------------|" << endl;
@@ -405,7 +405,7 @@ void ConsoleUI::run()const {
 
                     else {
                         int choice;
-                        system("cls");
+                        system("clear");
                         cout << " __________________________________________________\n"
                             << "|" << setw(16) << "" << "Incoming requests" << setw(19) << "|\n"
                             << "|--------------------------------------------------|" << endl;
@@ -439,7 +439,7 @@ void ConsoleUI::run()const {
             }
             else if (role == "Admin"/*Admin*/) {
                 cin >> menu;
-                system("cls");
+                system("clear");
                 switch (menu) {
                 case 1: {
                     cout << " __________________________________________________\n"
@@ -452,7 +452,7 @@ void ConsoleUI::run()const {
                 }
                 case 2: {
                     /**/reload_tariffs:
-                    system("cls");
+                    system("clear");
                     cout << " __________________________________________________\n"
                         << "|" << setw(21) << "" << "Tariffs" << setw(24) << "|\n"
                         << "|--------------------------------------------------|" << endl;
@@ -475,7 +475,7 @@ void ConsoleUI::run()const {
                     /**/
                     switch (inputint) {
                     case 1: {
-                        system("cls");
+                        system("clear");
                         string name = "";
                         float price = 0.0f, callprice = 0.0f;
                         cout << " __________________________________________________\n"
@@ -516,7 +516,7 @@ void ConsoleUI::run()const {
 
                     /*2*/reload_employee:
 
-                    system("cls");
+                    system("clear");
                     cout << " __________________________________________________\n"
                         << "|" << setw(21) << "" << "Employees" << setw(22) << "|\n"
                         << "|--------------------------------------------------|" << endl;
@@ -539,7 +539,7 @@ void ConsoleUI::run()const {
                     /**/
                     switch (inputint) {
                     case 1: {
-                        system("cls");
+                        system("clear");
                         string fname, lname, dateofB;
                         bool gender;
                         float salary;
@@ -688,20 +688,20 @@ void printEmptyMenu() {
 string LogInFunc() {
     while (1)
     {
-        system("cls");
+      system("clear");
         string login = "", password = "";
         cout << ">\"quit\"- EXIT<\n\n\n\n\n\n\n\n\n"
             << setw(56) << "" << "LOG IN\n";
         cout << setw(43) << "" << " _______________________________\n"
             << setw(43) << "" << "(LogIn: " << setw(25) << ")";
         moveLeft(25);
-        cin >> login;
+        getline(cin ,login);
         cout << setw(43) << "" << " -------------------------------\n";
         if (login == "quit") return "error";
         cout << setw(43) << "" << " _______________________________\n"
             << setw(43) << "" << "(Password: " << setw(22) << ")";
         moveLeft(23);
-        cin >> password;
+        getline(cin ,password);
         cout << setw(43) << "" << " -------------------------------\n\n";
         if (password == "quit") return "error";
         ////
@@ -723,7 +723,7 @@ void moveLeft(int p)
 {
     for (int i = 0; i < p; ++i)
     {
-        cout << "\b";
+        cout << "\033[" << "D";
     }
 }
 

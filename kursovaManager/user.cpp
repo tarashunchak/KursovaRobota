@@ -85,7 +85,7 @@ string User::getID()const {
 /*--------------UserDB---------------*/
 
 
-int searchIndex(int UID) {
+int searchIndex2(int UID) {
 	for (int i = 0; i < UserDB::getSize(); i++) {
 		if (UserDB::userList[i]->getUID() == UID) {
 			return i;
@@ -96,7 +96,7 @@ int searchIndex(int UID) {
 
 string UserDB::searchID(int UID) {
 	for (int i = 0; i < UserDB::getSize(); i++) {
-		if (UserDB::userList[i]->getUID()) {
+		if (UserDB::userList[i]->getUID() == UID) {
 			return UserDB::userList[i]->getID();
 		}
 	}
@@ -148,7 +148,7 @@ User* UserDB::getUser(int UID, bool byIndex) {
 	if (byIndex)
 		return userList[UID];
 
-	return userList[searchIndex(UID)];
+	return userList[searchIndex2(UID)]; 
 }
 
 

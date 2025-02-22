@@ -1,5 +1,4 @@
 #include "request.h"
-#include <iostream>
 
 using namespace std;
 

@@ -68,7 +68,7 @@ public:
 	static bool printRequest(bool all = true, int id = 0);
 	static int getSize();
 	static bool getStatus();
-	friend static int searchIndex(int ID);
+  friend int searchIndex(int ID); 
 	~RequestInProgress();
 };
 

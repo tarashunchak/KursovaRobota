@@ -42,7 +42,7 @@ public:
 	static void deleteUser(const User& delUser);
 	static int getSize();
 	static bool getStatus();
-	friend int searchIndex(int UID);
+	friend int searchIndex2(int UID);
 	static string searchID(int UID);
 
 };
