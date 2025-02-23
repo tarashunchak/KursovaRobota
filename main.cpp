@@ -1,4 +1,4 @@
-#include "ConsoleUI.h"
+#include "./include/ConsoleUI.h"
 
 int main() {
 	ConsoleUI app;

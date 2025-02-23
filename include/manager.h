@@ -18,8 +18,8 @@ private:
 	string myID = "m";
 public:
 	string role = "Manager";
-	Manager(Person& me, string login, string pass, float salary);
-	Manager(Person& me, float salary);
+	Manager(Person&, string, string, float);
+	Manager(Person& , float );
 	Person& getPerson()const;
 	string getPass()const;
 	string getLogin()const;
@@ -35,10 +35,10 @@ private:
 	static int arrsize;
 	static bool status;
 public:
-	static Manager* getManager(int index);
+	static Manager* getManager(int);
 	static int getSize();
 	static bool getStatus();
-	static void addManager(const Manager& newMgr);
+	static void addManager(const Manager&);
 	static void removeEmployee(int ID);
 	static bool printEmployee(bool all, int ID);
 	~ManagerDB();
@@ -46,10 +46,10 @@ public:
 };
 
 struct ManagerController {
-	Manager& getManager(int ManagerID)const;
-	void addManager(Person& person, float salary);
-	void addManager(const Manager& newManager);
-	void deleteManager(int ID);
+	Manager& getManager(int)const;
+	void addManager(Person&, float);
+	void addManager(const Manager&);
+	void deleteManager(int);
 	void printManager(bool all = true, int ID = 0)const;
 };
 

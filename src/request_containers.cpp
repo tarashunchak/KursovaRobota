@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 /*---------------*/
-#include "request.h"
+#include "./../include/request.h"
 /*---------------*/
 
 using namespace std;
@@ -95,8 +95,8 @@ bool RequestInProgress::printRequest(bool all, int id) {
 	if (all) {
 		for (int i = 0; i < arrsize; i++) {
 			cout << inProgress[i];
-			return true;
 		}
+    return true; 
 	}
 	else {
 		if (searchIndex(id) != -1) {

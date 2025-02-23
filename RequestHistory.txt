@@ -19,3 +19,10 @@
 |New_Value: Standart                               |
 |Status: In Progress                               |
 |--------------------------------------------------|
+|ID: 3                                             |
+|Cust_Num: +380990000000                           |
+|Request_type: Tariff Change                       |
+|Old_Value: Standart                               |
+|New_Value: Standart                               |
+|Status: Accept                                    |
+|--------------------------------------------------|

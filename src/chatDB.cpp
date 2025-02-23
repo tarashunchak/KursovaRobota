@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 /*---------------*/
-#include "chat.h"
+#include "./../include/chat.h"
 /*---------------*/
 
 using namespace std;

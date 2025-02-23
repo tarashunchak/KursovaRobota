@@ -16,7 +16,7 @@ private:
 	string type = "Tariff Change";
 public:
 	const string getType()const;
-	void setType(string newType);
+	void setType(string);
 };
 //-----------------------------------------------//
 class RequestStatus {
@@ -24,7 +24,7 @@ private:
 	string status = "In Progress";
 public:
 	const string getStatus()const;
-	void setStatus(const string newStatus);
+	void setStatus(const string);
 };
 
 /*----------------------------------------*/
@@ -40,15 +40,15 @@ private:
 	int reqID = 0;
 	static int id;
 public:
-	Request(Customer& cust, Tariff& newTariff);
+	Request(Customer&, Tariff&);
 	Request() = default;
 	Customer& getCustomer()const;
 	Tariff& getNewTarif()const;
 	RequestType getRequestType()const;
 	RequestStatus getRequestStatus()const;
 	int getReqId()const;
-	void updateRequestStatus(string newStatus);
-	Request& operator=(const Request& other);
+	void updateRequestStatus(string);
+	Request& operator=(const Request&);
 	friend ostream& operator<<(ostream& os, const Request& req);
 };
 
@@ -62,13 +62,13 @@ private:
 	static int arrsize;
 	static bool status;
 public:
-	Request& getRequest(int index)const;
-	static void addInProgressRequest(const Request& newReq);
-	static void manageRequest(const REQUEST_ACTION accept, const int ID);
+	Request& getRequest(int)const;
+	static void addInProgressRequest(const Request&);
+	static void manageRequest(const REQUEST_ACTION, const int);
 	static bool printRequest(bool all = true, int id = 0);
 	static int getSize();
 	static bool getStatus();
-  friend int searchIndex(int ID); 
+  friend int searchIndex(int); 
 	~RequestInProgress();
 };
 
@@ -78,9 +78,9 @@ private:
 	static int arrsize;
 	static bool status;
 public:
-	Request& getRequest(int index)const;
-	static void addRequestHistory(const Request& newReq);
-	static void printRequest(bool all, int id);
+	Request& getRequest(int)const;
+	static void addRequestHistory(const Request&);
+	static void printRequest(bool, int);
 	static int getSize();
 	~RequestHistory();
 };
@@ -90,9 +90,9 @@ public:
 /*---------------request_manager.cpp----------------*/
 
 struct RequestManager {
-	void sendRequest(Customer& customer, Tariff& tariff);
+	void sendRequest(Customer&, Tariff&);
 	bool getStatus()const;
-	void manageRequest(const REQUEST_ACTION accept, const int id)const;
+	void manageRequest(const REQUEST_ACTION, const int)const;
 	void printInProgressRequest(bool all = true, int id = 0)const;
 	void printRequestHistory(bool all = true, int id = 0)const;
 };

@@ -18,7 +18,7 @@ private:
 	string aID = "a";
 public:
 	const string role = "Admin";
-	Admin(Person& me, string login, string pass, float salary);
+  Admin(Person&, string, string, float);
 	Person& getPerson()const;
 	string getPass()const;
 	string getLogin()const;

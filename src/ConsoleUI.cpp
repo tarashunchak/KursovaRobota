@@ -1,10 +1,10 @@
-#include "ConsoleUI.h"
+#include "./../include/ConsoleUI.h"
 #include <iostream>
 #include <string>
 #include <iomanip>
 #include <fstream>
 /*---------------*/
-#include "all_headers.h"
+#include "./../include/all_headers.h"
 /*---------------*/
 
 using namespace std;
@@ -393,7 +393,7 @@ void ConsoleUI::run()const {
                         printEmptyMenu();
                     }
                     else {
-                        requestManager.printInProgressRequest(true, 0);
+                        requestManager.printInProgressRequest(true);
                     }
                     cout << "|--------------------------------------------------|\n"
                         << "|0)Exit" << setw(46) << "|\n";

@@ -2,14 +2,14 @@
 #include <iostream>
 #include <iomanip>
 /*----------------*/
-#include "manager.h"
-#include "person.h"
-#include "user.h"
+#include "./../include/manager.h"
+#include "./../include/person.h"
+#include "./../include/user.h"
 /*----------------*/
 
 using namespace std;
 
-void checkStringLength(size_t l);
+void checkStringLength(size_t);
 
 /////////////Manager////////////////
 

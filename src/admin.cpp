@@ -1,14 +1,13 @@
 #include <iomanip>
 
-#include "admin.h"
-#include "user.h"
+#include "./../include/admin.h"
+#include "./../include/user.h"
 
 using namespace std;
 
 int Admin::id = 1;
 
-Admin::Admin(Person& me, string login, string pass, float salary)
-		:me(&me), login(login), pass(pass), salary(salary) {
+Admin::Admin(Person& me, string login, string pass, float salary) :me(&me), login(login), pass(pass), salary(salary) {
 
 	aID = to_string(id++);
 	UserDB::addUser(User(this));
