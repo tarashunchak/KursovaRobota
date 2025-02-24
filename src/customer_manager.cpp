@@ -1,8 +1,5 @@
 /*---------------*/
-#include "customer.h"
-#include "person.h"
-#include "phone.h"
-#include "user.h"
+#include "./../include/customer.h"
 /*---------------*/
 
 Customer& CustomerManager::getCustomer(string UID)const {

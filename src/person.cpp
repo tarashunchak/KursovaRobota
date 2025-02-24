@@ -1,13 +1,10 @@
 /*---------------*/
-#include "person.h"
+#include "./../include/person.h"
 /*---------------*/
 
 using namespace std;
 
 Person::Person(string fname, string lname, string date, Gender gender) :fname(fname), lname(lname), birthday(date), gender(gender) {}
-
-Person::Person()
-	: fname("no info"), lname("no info"), birthday("no info"), gender(MALE) {}
 
 string Person::getFirstName()const {
 	return fname;

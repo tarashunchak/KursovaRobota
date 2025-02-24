@@ -1,5 +1,5 @@
 /*---------------*/
-#include "manager.h"
+#include "./../include/manager.h"
 /*---------------*/
 
 using namespace std;
@@ -16,8 +16,9 @@ void ManagerController::deleteManager(int ID) {
 	ManagerDB::removeEmployee(ID);
 }
 
-void ManagerController::printManager(bool all, int ID)const {
-	ManagerDB::printEmployee(all, ID);
+void ManagerController::printManager(bool all, string ID)const {
+  ID.erase(0, 1);
+	ManagerDB::printEmployee(all, stoi(ID));
 }
 
 Manager& ManagerController::getManager(int ManagerID)const {

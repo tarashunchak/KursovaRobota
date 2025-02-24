@@ -11,8 +11,8 @@ using std::ostream;
 class Manager {
 private:
 	Person* me = nullptr;
-	string pass = "";
 	string login = "";
+  string pass = "";
 	float salary;
 	static int ID;
 	string myID = "m";
@@ -50,7 +50,7 @@ struct ManagerController {
 	void addManager(Person&, float);
 	void addManager(const Manager&);
 	void deleteManager(int);
-	void printManager(bool all = true, int ID = 0)const;
+	void printManager(bool all = true, string ID = "")const;
 };
 
 

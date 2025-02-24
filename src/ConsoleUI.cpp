@@ -6,9 +6,7 @@
 /*---------------*/
 #include "./../include/all_headers.h"
 /*---------------*/
-
 using namespace std;
-
 ///////////////////////////////////
 
 /*/////////////////////////////////*/string UserID;///////////////////////////////////
@@ -60,7 +58,6 @@ void printEmptyMenu();
 void checkStringLength(size_t);
 
 //////////////////////////////
-
 
 void ConsoleUI::run()const {
 
@@ -319,7 +316,7 @@ void ConsoleUI::run()const {
                     cout << " __________________________________________________\n"
                         << "|" << setw(20) << "" << "My Profile" << setw(22) << "|\n"
                         << "|--------------------------------------------------|" << endl;
-                    //managerController.printManager(false, UserID);
+                    managerController.printManager(false, UserID);
                     cout << "|--------------------------------------------------|\n"
                         << "|0)Exit" << setw(46) << "|\n"
                         << "|__________________________________________________|\n"
@@ -447,7 +444,8 @@ void ConsoleUI::run()const {
                         << "|--------------------------------------------------|" << endl;
                     AdminManager::printAdmin();
                     cout << "|__________________________________________________|\n";
-                    system("pause");
+                    //system("pause");
+                    cin >> inputint;
                     break;
                 }
                 case 2: {
@@ -573,7 +571,7 @@ void ConsoleUI::run()const {
                         cout << "Enter ID:";
                         cin >> inputint;
                         managerController.deleteManager(inputint);
-
+                        
                         /*2*/goto reload_employee;
 
                     }
@@ -589,7 +587,7 @@ void ConsoleUI::run()const {
                 case 4: {
                     string rep = "ReportHistory.txt";
                     cout << " __________________________________________________\n"
-                        << "|" << setw(7) << "" << "Incoming reports" << setw(9) << "|\n"
+                        << "|" << setw(17) << "" << "Incoming reports" << setw(19) << "|\n"
                         << "|--------------------------------------------------|" << endl;
                     ifstream reportnin("RequestHistory.txt");
                     if (!reportnin.is_open()) break;
@@ -597,7 +595,7 @@ void ConsoleUI::run()const {
                         cout << rep << endl;
                     }
                     cout << "|--------------------------------------------------|" << endl
-                        << "|0)Exit" << setw(26) << "|\n"
+                        << "|0)Exit" << setw(46) << "|\n"
                         << "|__________________________________________________|\n"
                         << ">>";
                     cin >> inputint;
@@ -714,11 +712,11 @@ string LogInFunc() {
     }
     return "";
 }
-
+/*
 string AuthFunc(string login, string pass) {
     return "";
 }
-
+*/
 void moveLeft(int p)
 {
     for (int i = 0; i < p; ++i)

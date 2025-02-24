@@ -2,12 +2,15 @@
 
 #include "./../include/admin.h"
 #include "./../include/user.h"
+ 
+void checkStringLength(size_t);
 
 using namespace std;
 
 int Admin::id = 1;
 
-Admin::Admin(Person& me, string login, string pass, float salary) :me(&me), login(login), pass(pass), salary(salary) {
+Admin::Admin(Person& me, string pass, string login, float salary) 
+        :me(&me), pass(pass), login(login),  salary(salary) {
 
 	aID = to_string(id++);
 	UserDB::addUser(User(this));
@@ -34,9 +37,11 @@ float Admin::getSalary()const {
 }
 
 ostream& operator<<(ostream& os, const Admin& obj) {
-	os << "|F_Name:" << obj.me->getFirstName() << setw(52 - (obj.me->getFirstName().length() + 8)) << "|" << endl
-		<< "|Date_of_B:" << obj.me->getDate() << setw(52 - (obj.me->getDate().length() + 11)) << "|" << endl
-		<< "|Gender(0-m/1-f):" << obj.me->getGender() << setw(52 - 18) << "|" << endl
+	os << "|F_Name:" << obj.me->getFirstName();
+  checkStringLength(obj.me->getFirstName().length());
+  os << "|Date_of_B:" << obj.me->getDate();
+  checkStringLength(obj.me->getDate().length()); 
+	os << "|Gender(0-m/1-f):" << obj.me->getGender() << setw(52 - 18) << "|" << endl
 		<< "|Salary:" << std::fixed << std::setprecision(2) << obj.salary << "$" << setw(52 - (std::to_string(obj.salary).length() + 5)) << "|" << endl
 		<< "|--------------------------------------------------|" << endl;
 	return os;

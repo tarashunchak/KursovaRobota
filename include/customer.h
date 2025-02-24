@@ -21,14 +21,14 @@ private:
 public:
 	const string role = "Customer";
 	Customer() = default;
-	Customer(Person& me, MobileManager& phone, string login, string pass);
-	Customer(Person& me, SIM phone);
+	Customer(Person&, MobileManager&, string, string);
+	Customer(Person&, SIM);
 	Person& getPerson()const;
 	MobileManager* getMobile()const;
 	string getLogin()const;
 	string getPass()const;
 	string getID()const;
-	Customer& operator=(const Customer& other);
+	Customer& operator=(const Customer&);
 	friend ostream& operator<<(ostream& os, const Customer& obj);
 };
 
@@ -45,12 +45,12 @@ public:
 	static int getSize();
 	static bool getStatus();
 	static Customer* getCustomer(string UID);
-	static Customer* getCustomer(int index);
-	static void addCustomer(const Customer& newCust);
-	static void removeCustomer(int UID);
-	static void printCustomer(bool all, string UID);
-	friend int searchIndex2(string cID);
-	friend int searchIndex3(int UID);
+	static Customer* getCustomer(int);
+	static void addCustomer(const Customer&);
+	static void removeCustomer(int);
+	static void printCustomer(bool all = true, string UID = "");
+	friend int searchIndex2(string);
+	friend int searchIndex3(int);
 	~CustomerDB();
 };
 

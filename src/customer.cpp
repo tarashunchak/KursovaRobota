@@ -1,9 +1,8 @@
 #include <string>
 #include <iostream>
-#include <iomanip>
 /*---------------*/
-#include "customer.h"
-#include "user.h"
+#include "./../include/customer.h"
+#include "./../include/user.h"
 /*---------------*/
 
 using namespace std;
@@ -12,8 +11,8 @@ void checkStringLength(size_t l);
 
 int Customer::ID = 1;
 
-Customer::Customer(Person& me, MobileManager& phone, string login, string pass)
-		:me(new Person(me)), myPhone(&phone), login(login), pass(pass) {
+Customer::Customer(Person& me, MobileManager& phone, string pass, string login)
+		:me(new Person(me)), myPhone(&phone), pass(pass) , login(login){
 
 	custID += to_string(ID++);
 	UserDB::addUser(User(this));
