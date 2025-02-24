@@ -82,14 +82,13 @@ void ConsoleUI::run()const {
     Mobile mmm(sim2, myPb);
     MobileManager ppp(mmm);
 
-    Customer meCust(person[0], myPhone, "taras", "ass");
-    Customer meCust2(person[1], ppp, "newme", "pass");
+    Customer meCust(person[0], myPhone, "customer", "pass");
     for (int i = 0; i < 4; i++) {
         myPhone.addContact(sim[i]);
     }
 
     customerManager.addCustomer(meCust);
-    customerManager.addCustomer(meCust2);
+    
     for (int i = 0; i < 3; i++) {
         tariffManager.addTariff(tariff[i]);
         customerManager.addCustomer(customers[i]);

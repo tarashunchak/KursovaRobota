@@ -17,8 +17,8 @@ void ManagerController::deleteManager(int ID) {
 }
 
 void ManagerController::printManager(bool all, string ID)const {
-  ID.erase(0, 1);
-	ManagerDB::printEmployee(all, stoi(ID));
+  //ID.erase(0, 1);
+	//ManagerDB::printEmployee(all, stoi(ID));
 }
 
 Manager& ManagerController::getManager(int ManagerID)const {
