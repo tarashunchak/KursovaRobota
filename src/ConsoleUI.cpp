@@ -1,10 +1,10 @@
-#include "ConsoleUI.h"
+#include "./../include/ConsoleUI.h"
 #include <iostream>
 #include <string>
 #include <iomanip>
 #include <fstream>
 /*---------------*/
-#include "all_headers.h"
+#include "./../include/all_headers.h"
 /*---------------*/
 
 using namespace std;
@@ -712,10 +712,6 @@ string LogInFunc() {
             }
         }
     }
-    return "";
-}
-
-string AuthFunc(string login, string pass) {
     return "";
 }
 

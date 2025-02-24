@@ -1,5 +1,5 @@
 /*---------------*/
-#include "auth.h"
+#include "./../include/auth.h"
 /*---------------*/
 
 using namespace std;
