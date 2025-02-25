@@ -1,21 +1,13 @@
 /*---------------*/
-#include "request.h"
+#include "./../include/request.h"
 /*---------------*/
 
 using std::string;
 
-const string RequestType::getType()const {
-	return type;
-}
+const string RequestType::getType() const { return type; }
 
-void RequestType::setType(string newType) {
-	type = newType;
-}
+void RequestType::setType(string newType) { type = newType; }
 
-const string RequestStatus::getStatus()const {
-	return status;
-}
+const string RequestStatus::getStatus() const { return status; }
 
-void RequestStatus::setStatus(string newStatus) {
-	status = newStatus;
-}
+void RequestStatus::setStatus(string newStatus) { status = newStatus; }

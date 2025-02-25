@@ -11,14 +11,14 @@ using std::ostream;
 class Admin {
 private:
 	Person* me = nullptr;
-	string pass;
 	string login;
+	string pass;
 	float salary;
 	static int id;
 	string aID = "a";
 public:
+  Admin(Person&, string, string, float);
 	const string role = "Admin";
-	Admin(Person& me, string login, string pass, float salary);
 	Person& getPerson()const;
 	string getPass()const;
 	string getLogin()const;

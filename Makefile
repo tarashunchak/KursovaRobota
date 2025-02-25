@@ -1,15 +1,7 @@
-# Назва фінального виконуваного файлу
-TARGET = my_program
-
-# Компілятор і прапори
-CXX = g++
-CXXFLAGS = -Wall -Wextra -std=c++17 -Iincludes
-
-# Директорії
-SRC_DIR = src
 INCLUDES_DIR = includes
 
 # Файли проєкту
+SRC_DIR = src
 SRCS = $(wildcard $(SRC_DIR)/*.cpp)
 OBJS = $(SRCS:$(SRC_DIR)/%.cpp=$(SRC_DIR)/%.o)
 MAIN_SRC = main.cpp
@@ -17,6 +9,12 @@ MAIN_OBJ = main.o
 
 # Залежності
 DEPS = $(OBJS:.o=.d) $(MAIN_OBJ:.o=.d)
+
+# Флаги компілятора
+CXXFLAGS += -I$(INCLUDES_DIR)
+
+# Ім'я програми (має бути визначене)
+TARGET = my_program
 
 # Правила
 all: $(TARGET)

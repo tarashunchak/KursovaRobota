@@ -2,8 +2,8 @@
 #include <iostream>
 #include <iomanip>
 /*---------------*/
-#include "customer.h"
-#include "user.h"
+#include "./../include/customer.h"
+#include "./../include/user.h"
 /*---------------*/
 
 using namespace std;

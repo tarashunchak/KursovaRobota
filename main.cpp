@@ -1,8 +1,9 @@
-#include "ConsoleUI.h"
+#include "./include/ConsoleUI.h"
+#include <iostream>
 
 int main() {
-	ConsoleUI app;
-	app.run();
-
-	return 0;
+  ConsoleUI app;
+  app.run();
+  std::cout << "Zmina" << std::endl;
+  return 0;
 }

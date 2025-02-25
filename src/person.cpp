@@ -1,5 +1,5 @@
 /*---------------*/
-#include "person.h"
+#include "./../include/person.h"
 /*---------------*/
 
 using namespace std;

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 /*---------------*/
-#include "tariff.h"
+#include "./../include/tariff.h"
 /*---------------*/
 
 using namespace std;
